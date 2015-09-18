@@ -21,8 +21,6 @@
  * misc parsing utilities
  */
 
-#include <sys/../time.h>
-
 #include "avstring.h"
 #include "avutil.h"
 #include "common.h"
